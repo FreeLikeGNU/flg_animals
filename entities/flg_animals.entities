@@ -1,0 +1,3 @@
+entity sheep
+	class: io.xol.chunkstories.flg_animals.entity.EntitySheep
+end

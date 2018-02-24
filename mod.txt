@@ -1,0 +1,3 @@
+internalName: flg_animals
+name: Chunk Stories Animals
+version: 0.1
